@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/395hwhnh0uxwp6m9?svg=true)](https://ci.appveyor.com/project/pr0100smile/test-clean)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
